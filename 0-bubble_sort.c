@@ -4,7 +4,6 @@
  * bubble_sort - sorts an array in ascending order.
  * @array: The array to be sorted
  * @size: The size of the array to be sorted.
- * 
  * Return: 0
 */
 
